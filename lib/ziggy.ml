@@ -1,0 +1,1 @@
+external zig_twice: int -> int = "zig_twice"
